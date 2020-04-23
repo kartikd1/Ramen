@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+sklearn
+pycountry
+plotly
+chart_studio
